@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vinay Sureka
-- 👀 I’m interested in Kotlin, Java, C++, HTML, CSS
+- 👀 I’m interested in Tech 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me vinaysureka99@gmail.com
 
